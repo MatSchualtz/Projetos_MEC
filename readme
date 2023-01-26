@@ -1,0 +1,7 @@
+echo "# Projetos_MEC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:MatSchualtz/Projetos_MEC.git
+git push -u origin main
